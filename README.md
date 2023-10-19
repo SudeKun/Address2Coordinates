@@ -30,3 +30,6 @@ GET functions:
 
 4-) coordiantes: First, the coordinate command is called, entered and then the district name is entered.
 
+P.S: IP2Location lite database is free, if you want tou can downlad from original website but if you want there is gdrive link move that file into server/doc folder.
+
+GDrive Link : https://drive.google.com/file/d/18lrcol5Dv7zXl1fz4a6er8FDwOJbpzqI/view?usp=sharing
